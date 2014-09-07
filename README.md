@@ -1,0 +1,4 @@
+pechatex
+========
+
+LaTeX for pechas
